@@ -1,0 +1,36 @@
+{
+    "navigation": [
+        {
+            "title": "i18n.model",
+            "path": "/"
+        },
+        {
+            "title": "i18n.terminology",
+            "path": "/terminology"
+        },
+        {
+            "title": "i18n.summary",
+            "path": "/summary"
+        },
+        {
+            "title": "i18n.reference",
+            "path": "/reference"
+        },
+        {
+            "title": "i18n.domains",
+            "path": "/domains"
+        },
+        {
+            "title": "i18n.stack",
+            "path": "/stack"
+        },
+        {
+            "title": "i18n.connectors",
+            "path": "/connectors"
+        },
+        {
+            "title": "i18n.interactions",
+            "path": "/interactions"
+        }
+    ]
+}
