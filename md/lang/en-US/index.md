@@ -16,4 +16,4 @@ We have organized this document into three distinct categories, roughly aligning
 2. A Per-Topic Summary
 3. An In-Depth Discussion
 
-Readers are encouraged to move at their own pace by skipping sections they may already understand. At a minimum, they should read the *1. Definitions* and *2. Summary* sections in full to gain a comprehensive understanding of the Model’s terminology and how each component works together.
+Readers are encouraged to move at their own pace by skipping sections they may already understand. At a minimum, they should read the *1. Terminology* and *2. Summary* sections in full to gain a comprehensive understanding of the Model’s terminology and how each component works together.
